@@ -2,10 +2,7 @@ In this project, let's build a **Nxt Trendz - Cart Features** by applying the co
 
 ### Refer to the video below:
 
-<br/>
 ![image](https://github.com/user-attachments/assets/8a197c94-70f8-4def-b1b7-faea4d2f5768)
-
-<br/>
 
 ### Design Files
 
