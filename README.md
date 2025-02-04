@@ -1,6 +1,6 @@
 In this project, let's build a **Nxt Trendz - Cart Features** by applying the concepts we have learned till now.
 
-### Refer to the video below:
+### Refer to the image below:
 
 ![image](https://github.com/user-attachments/assets/8a197c94-70f8-4def-b1b7-faea4d2f5768)
 
